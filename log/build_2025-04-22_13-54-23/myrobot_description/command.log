@@ -1,0 +1,2 @@
+Invoking command in '/home/amey/roboticArm_ws/build/myrobot_description': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/amey/roboticArm_ws/src/myrobot_ros2/myrobot_description -DCMAKE_INSTALL_PREFIX=/home/amey/roboticArm_ws/install/myrobot_description
+Invoked command in '/home/amey/roboticArm_ws/build/myrobot_description' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/amey/roboticArm_ws/src/myrobot_ros2/myrobot_description -DCMAKE_INSTALL_PREFIX=/home/amey/roboticArm_ws/install/myrobot_description
